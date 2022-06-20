@@ -1,3 +1,3 @@
 ### Deployed link
 
-https://aizhamalka.github.io/taptapalak/
+https://aizhamalka.github.io/taptapalak/index.html
